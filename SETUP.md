@@ -44,4 +44,4 @@ $ python manage.py runserver
 ```
 Copy _http://127.0.0.1:8000/_ and paste it to your browser
 
-Finally check some endpoint`s
+Finally you can check some endpoint`s in README.md
